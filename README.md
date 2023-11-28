@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwaysaashutosh" alt="alwaysaashutosh" /></a> </p>
 
-- 💬 Ask me about **Golang , Docker , Postgres , Kubernates**
+- 💬 Ask me about **Golang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
