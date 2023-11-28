@@ -17,7 +17,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alwaysaashutosh&show_icons=true&locale=en&layout=compact" alt="alwaysaashutosh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alwaysaashutosh&show_icons=true&locale=en" alt="alwaysaashutosh" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alwaysaashutosh&" alt="alwaysaashutosh" /></p>
 
 
 
